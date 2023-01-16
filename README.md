@@ -1,1 +1,2 @@
-# image_filters
+# Basic Images Filters
+> Sobel & Laplacian & Gaussian
